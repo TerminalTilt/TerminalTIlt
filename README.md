@@ -33,6 +33,7 @@
 - **[dotfiles](https://github.com/TerminalTilt/dotfiles)** - My Linux configs (GPL-3.0)
 - **[debian-family-tree](https://github.com/TerminalTilt/debian-family-tree)** - Curated list of ~60 Debian-based distros (CC-BY-SA-4.0)
 - **[terminal-tilt](https://github.com/TerminalTilt/terminal-tilt)** - Terminal Tilt website & branding assets (CC-BY-SA-4.0)
+- **[os-theme-catppuccin](https://github.com/TerminalTilt/os-theme-catppuccin)** - Catppuccin themes for OPNsense firewall (BSD-2-Clause)
 
 ---
 
