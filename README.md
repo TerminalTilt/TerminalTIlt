@@ -8,6 +8,7 @@
 
 ### 🏳️‍🌈 About me
 
+| | |
 |---|---|
 | **Pronouns** | He/Him |
 | **Identity** | Omnisexual cis man |
