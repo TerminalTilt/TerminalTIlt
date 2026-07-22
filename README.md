@@ -20,7 +20,7 @@
 ### Systems
 
 - **Desktop:** Debian Sid
-- **Laptop:** Devuan Excalibur
+- **Laptop:** Devuan Excalibur (for now)
 - **Homelab:** Proxmox VE + Debian VMs
 - **WM:** KDE Plasma 6 (Wayland)
 - **Shell:** Fish
@@ -32,13 +32,13 @@
 
 - **[dotfiles](https://github.com/TerminalTilt/dotfiles)** - My Linux configs (GPL-3.0)
 - **[debian-family-tree](https://github.com/TerminalTilt/debian-family-tree)** - Curated list of ~60 Debian-based distros (CC-BY-SA-4.0)
-- **[Terminal Tilt](https://terminaltilt.com)** - PeerTube videos on FOSS, privacy, Linux
+- **[terminal-tilt](https://github.com/TerminalTilt/terminal-tilt)** - Terminal Tilt website & branding assets (CC-BY-SA-4.0)
 
 ---
 
 ### I don't support
 
-Bigoted folks | AI apologism | Surveillance tech | Crypto/NFT | Bad faith arguments
+Bigoted folks, projects and companies | AI apologism | Surveillance tech
 
 ---
 
