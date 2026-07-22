@@ -47,4 +47,4 @@ Bigoted folks, projects and companies | AI apologism | Surveillance tech
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine) 
 [![LiberaPay](https://img.shields.io/badge/Liberapay-support-yellow?logo=liberapay)](https://liberapay.com/terminaltilt)
 
-Thank you for supporting independent, human-made content! 🧡
+Thank you for supporting independent, human made content! 🧡
