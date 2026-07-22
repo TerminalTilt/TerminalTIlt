@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Bryan
 
-<!--
-**TerminalTilt/TerminalTIlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital rights, FOSS, Linux, and privacy advocate.**  
 
-Here are some ideas to get you started:
+🚫 **100% human-made content.** People > Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏳️‍🌈 About me
+
+| | |
+|---|---|
+| **Pronouns** | He/Him |
+| **Identity** | Omnisexual cis man |
+| **Politics** | Socialist, atheist, humanist |
+| **Location** | East TN (Appalachia) |
+
+---
+
+### 💻 Systems
+
+- **Desktop:** Debian Sid
+- **Laptop:** Devuan Excalibur
+- **Homelab:** Proxmox VE + Debian VMs
+- **WM:** KDE Plasma 6 (Wayland)
+- **Shell:** Fish
+- **Browser:** LibreWolf
+
+---
+
+### 🔧 Projects
+
+- **[dotfiles](https://github.com/TerminalTilt/dotfiles)** — My Linux configs (GPL-3.0)
+- **[debian-family-tree](https://github.com/TerminalTilt/debian-family-tree)** — Curated list of ~60 Debian-based distros (CC-BY-SA-4.0)
+- **[Terminal Tilt](https://terminaltilt.com)** — PeerTube videos on FOSS, privacy, Linux
+
+---
+
+### 🚫 I don't support
+
+Bigoted folks | AI apologism | Surveillance tech | Crypto/NFT | Bad faith arguments
+
+---
+
+### ☕ Support
+
+[![LiberaPay](https://img.shields.io/badge/Liberapay-support-yellow?logo=liberapay)](https://liberapay.com/terminaltilt)
+
+Thank you for supporting independent, human-made content! 🧡
